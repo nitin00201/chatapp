@@ -1,11 +1,9 @@
-Perfect 👍 Let’s create a clean **README.md** for your GitHub repo with setup instructions for both **server** and **mobile** apps.
 
-Here’s a good starting point ⬇️
 
 ---
 
 ```markdown
-# 📱💬 My Chat App
+# 📱💬 chatapp
 
 A real-time chat application built with:
 
@@ -39,8 +37,8 @@ my-chat-app/
 
 ### 1. Clone the repo
 ```sh
-git clone https://github.com/nitin00201/my-chat-app.git
-cd my-chat-app
+git clone https://github.com/nitin00201/chatapp.git
+cd chatapp
 ````
 
 ---
