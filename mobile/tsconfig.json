@@ -1,0 +1,17 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "@/*": [
+        "./*"
+      ]
+    }
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    ".expo/types/**/*.ts",
+    "expo-env.d.ts"
+, "app/register.jsx", "app/login.jsx", "app/_layout.jsx", "app/(tabs)/_layout.jsx", "app/(tabs)/chats.jsx", "app/(tabs)/home.jsx", "app/(tabs)/profile.jsx", "app/chat/[id].jsx"  ]
+}

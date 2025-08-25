@@ -1,0 +1,4 @@
+# Ignore global junk
+.DS_Store
+dist/
+build/
